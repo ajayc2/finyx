@@ -114,6 +114,8 @@ const LandingPage = () => {
             Join thousands of users who are already managing their finances
             smarter with Finyx
           </p>
+
+          
           <Link href="/dashboard">
             <Button
               size="lg"
