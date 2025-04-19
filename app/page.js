@@ -13,7 +13,7 @@ import Link from "next/link";
 
 const LandingPage = () => {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-white pt-40">
       {/* Hero Section */}
       <HeroSection />
 
@@ -112,8 +112,10 @@ const LandingPage = () => {
           </h2>
           <p className="text-blue-100 mb-8 max-w-2xl mx-auto">
             Join thousands of users who are already managing their finances
-            smarter with Welth
+            smarter with Finyx
           </p>
+
+          
           <Link href="/dashboard">
             <Button
               size="lg"
@@ -129,4 +131,3 @@ const LandingPage = () => {
 };
 
 export default LandingPage;
-}
