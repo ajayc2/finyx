@@ -8,6 +8,10 @@ export const { GET, POST, PUT } = serve({
   functions: [
  triggerRecurringTransactions,
 processRecurringTransaction,
+<<<<<<< HEAD
 // generateMonthlyReports,checkBudgetAlert,
+=======
+
+>>>>>>> origin/master
   ],
 });
