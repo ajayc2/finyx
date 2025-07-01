@@ -31,7 +31,7 @@ const LandingPage = () => {
             ))}
           </div>
         </div>
-      </section>
+      </section> 
 
       {/* Features Section */}
       <section id="features" className="py-20">

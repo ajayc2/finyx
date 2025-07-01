@@ -122,7 +122,7 @@ export function CreateAccountDrawer({ children }) {
               )}
             </div>
 
-            <div className="space-y-2">
+            <div className="space-y-2"> 
               <label
                 htmlFor="balance"
                 className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
