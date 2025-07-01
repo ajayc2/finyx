@@ -13,7 +13,7 @@ const Header = async () => {
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
      <Link href="/">
      <Image
-     src={"/FinyxProject__Logo.png"}
+     src={"/FinyxProject__Logo(1).png"}
      alt="finyx logo"
      height={60}
      width={200}
